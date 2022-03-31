@@ -1,0 +1,41 @@
+@charset 'UTF-8';
+#photo.cat1 {
+    width: 400px;
+    height: 450px;
+}
+#photo.cat2 {
+    width: 400px;
+    height: 450px;
+}
+#photo.cat3 {
+    width: 400px;
+    height: 450px;
+}
+
+
+.sample1 {
+    font-size: 40px;
+    font-family: 'Sawarabi Mincho';
+}
+
+
+.box5 {
+    width: 70px;
+    height: 60px;
+    margin: 2em 0;
+    background: #dcefff;
+}
+.box5 .box-title {
+    font-size: 20px;
+    font-family: "Monotype Corsiva";
+    background: #5fb3f5;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box5 p {
+    padding: 15px 20px;
+    margin: 0;
+}
